@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>16. jQuery Events</title>
+	<script src="http://ajax.aspnetcdn.com/ajax/jquery/jquery-1.9.0.min.js"></script>
+	<script type="text/javascript" src="script16.js"></script>
+	<link rel="stylesheet" type="text/css" href="style16.css" />
+</head>
+<body>
+	<h1>The Click Game</h1>
+	<h3>Straight forward!</h3>
+	
+	<div id="game">
+		<img src="qg.jpg" id="bobhead">
+		<p>SCORE: <span id="score">0</span></p>
+		<p id="success">You clicked one!</p>
+	</div>
+	
+	<div id="startover">Start over</div>
+	
+	
+</body>
+//api.jquery.com/category/events
+</html>
